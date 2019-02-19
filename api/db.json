@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "great stream",
+      "id": 2
+    },
+    {
+      "title": "New Stream ",
+      "description": "PUBG",
+      "id": 3
+    },
+    {
+      "title": "pubg new ",
+      "description": "pubg",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "Dota 2 Stream",
+      "id": 5
+    },
+    {
+      "title": "dota 2 ",
+      "description": "dota live",
+      "id": 6
+    }
+  ]
+}
